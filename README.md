@@ -10,6 +10,7 @@ This project presents an interactive Power BI dashboard developed for analyzing 
 >Interactive filters for sales status and product categories
 
 >Dynamic visualizations: bar charts, line graphs, pie charts, and card KPIs
+
 📌 Tools Used
 -Microsoft Power BI
 
