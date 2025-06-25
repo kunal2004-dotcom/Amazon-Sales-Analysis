@@ -1,5 +1,6 @@
 # 🛒 Amazon Sales Analysis Dashboard (Power BI)
 This project presents an interactive Power BI dashboard developed for analyzing Amazon India sales data. The goal was to explore category-wise performance, shipment status, and regional sales trends to uncover valuable business insights.
+
 📊 Key Features
 >Category-wise product analysis with image-based slicers
 
@@ -12,6 +13,7 @@ This project presents an interactive Power BI dashboard developed for analyzing 
 >Dynamic visualizations: bar charts, line graphs, pie charts, and card KPIs
 
 📌 Tools Used
+
 -Microsoft Power BI
 
 -Excel (data preprocessing)
